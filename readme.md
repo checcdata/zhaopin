@@ -48,12 +48,12 @@ http://www.supermapol.com/web/pricing/triallicense
 申请教程：http://qa.supermap.com/52677
 2.安装idesktop，安装后注册用户、登录。  
 3.查看许可  
-![img1](img/img3.png)  
-![img1](img/img4.png)  
+![img3](img/img3.png)  
+![img4](img/img4.png)  
 查看许可是否过期，过期的话去超图官网申请新的许可添加进来。  
 4.iObjects java就是一个本地开发包，需要将它添加的系统的path变量中去  
-![img1](img/img5.png)
-![img1](img/img6.png)
+![img5](img/img5.png)
+![img6](img/img6.png)
 
 注意：将超图的这两个变量放在jdk变量的后边，防止影响jdk  
 5.重启电脑  
