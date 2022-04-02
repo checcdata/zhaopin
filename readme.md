@@ -64,3 +64,7 @@ http://www.supermapol.com/web/pricing/triallicense
 ### 1.安装iObject环境(参考文档)
 ### 2.基于iObject创建一个java项目
 ### 3.编写一个demo,计算线对象长度以及面对象面积
+
+## 要求
+## 4.在项目中创建test分支，然后提交commit请求到checcdata/zhaopin的test分支
+## 5.主文件夹命名规则：map_个人姓名拼音
