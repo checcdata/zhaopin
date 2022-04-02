@@ -28,4 +28,6 @@ https://www.checcgtmap.com.cn/iserver6/services/map-fujian_map/rest/maps/SDPS
 路线数据链接
 https://www.checcgtmap.com.cn/iserver6/services/map-NMG_MAP/rest/maps/NMG_GAOSU  
 
-### 4.在项目中创建自己的分支，然后提交commit请求到checcdata/zhaopin的test分支
+### 4.在项目中创建test分支，然后提交commit请求到checcdata/zhaopin的test分支
+
+### 5.主文件夹命名规则：react_gis_个人姓名拼音
