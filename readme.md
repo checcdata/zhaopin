@@ -42,18 +42,17 @@ iObject java 10.0.1
 iDesktop 10.0.1  
 下载地址：http://support.supermap.com.cn/DownloadCenter/ProductPlatform.aspx
 ![img1](img/img1.png)
-![img2](img/img2.png)
-超图的试用许可，试用需要去超图官网：  
-http://www.supermapol.com/web/pricing/triallicense  
-申请教程：http://qa.supermap.com/52677
+![img2](img/img2.png)  
+超图的试用许可，试用需要去超图官网： http://www.supermapol.com/web/pricing/triallicense  
+申请教程：http://qa.supermap.com/52677  
 2.安装idesktop，安装后注册用户、登录。  
 3.查看许可  
-![img1](img/img3.png)  
-![img1](img/img4.png)  
+![img3](img/img3.png)  
+![img4](img/img4.png)  
 查看许可是否过期，过期的话去超图官网申请新的许可添加进来。  
 4.iObjects java就是一个本地开发包，需要将它添加的系统的path变量中去  
-![img1](img/img5.png)
-![img1](img/img6.png)
+![img5](img/img5.png)
+![img6](img/img6.png)
 
 注意：将超图的这两个变量放在jdk变量的后边，防止影响jdk  
 5.重启电脑  
@@ -64,3 +63,7 @@ http://www.supermapol.com/web/pricing/triallicense
 ### 1.安装iObject环境(参考文档)
 ### 2.基于iObject创建一个java项目
 ### 3.编写一个demo,计算线对象长度以及面对象面积
+
+## 要求
+## 4.在项目中创建test分支，然后提交commit请求到checcdata/zhaopin的test分支
+## 5.主文件夹命名规则：map_个人姓名拼音
