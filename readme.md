@@ -42,10 +42,9 @@ iObject java 10.0.1
 iDesktop 10.0.1  
 下载地址：http://support.supermap.com.cn/DownloadCenter/ProductPlatform.aspx
 ![img1](img/img1.png)
-![img2](img/img2.png)
-超图的试用许可，试用需要去超图官网：  
-http://www.supermapol.com/web/pricing/triallicense  
-申请教程：http://qa.supermap.com/52677
+![img2](img/img2.png)  
+超图的试用许可，试用需要去超图官网： http://www.supermapol.com/web/pricing/triallicense  
+申请教程：http://qa.supermap.com/52677  
 2.安装idesktop，安装后注册用户、登录。  
 3.查看许可  
 ![img3](img/img3.png)  
